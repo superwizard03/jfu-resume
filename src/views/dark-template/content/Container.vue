@@ -151,11 +151,11 @@ export default {
     ],
     educations: [
       {
-        from       : '2017',
-        to         : '2011 (not finished yet)',
+        from       : '2007',
+        to         : '2011',
         title      : 'Bachelor\'s degree, Computer Science',
         location   : 'Georgia State University',
-        description: '',
+        description: 'During my school days, I was able to master C/C++ programming and it makes me learn the other popular web stacks (React, Vue.js, Angular) more easily.  I started web development after graduating from school.',
       },
     ],
     skills: [

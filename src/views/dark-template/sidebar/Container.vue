@@ -84,7 +84,7 @@ export default {
             {
               name: 'Website',
               icon: 'mdi-web',
-              text: 'jfu-resume.in',
+              text: 'jfu-resume.herokuapp.com',
             },
             {
               name: 'Birth Date',

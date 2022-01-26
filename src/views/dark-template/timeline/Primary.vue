@@ -6,7 +6,7 @@
     <v-card-text>
       <content-section
         id="timeline"
-        :title="detailed ? 'My Life in Software Engineering' : 'My Experiences'"
+        :title="detailed ? 'My Experiences in Software Engineering' : 'My Life'"
       >
         <template slot="actions">
           <div>
