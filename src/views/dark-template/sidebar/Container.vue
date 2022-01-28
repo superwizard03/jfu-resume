@@ -106,21 +106,21 @@ export default {
               text: 'github.com/superwizard03',
               link: 'https://github.com/superwizard03',
             },
-            {
-              icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/jonas-fu',
-              link: 'https://linkedin.com/in/jonas-fu',
-            },
-            {
-              icon: 'mdi-twitter',
-              text: 'twitter.com/Jonas_Fu',
-              link: 'https://twitter.com/Jonas_Fu',
-            },
-            {
-              icon: 'mdi-instagram',
-              text: 'instagram.com/jonas.n96',
-              link: 'https://instagram.com/jonas.n96',
-            },
+            // {
+            //   icon: 'mdi-linkedin-box',
+            //   text: 'linkedin.com/in/jonas-fu',
+            //   link: 'https://linkedin.com/in/jonas-fu',
+            // },
+            // {
+            //   icon: 'mdi-twitter',
+            //   text: 'twitter.com/Jonas_Fu',
+            //   link: 'https://twitter.com/Jonas_Fu',
+            // },
+            // {
+            //   icon: 'mdi-instagram',
+            //   text: 'instagram.com/jonas.n96',
+            //   link: 'https://instagram.com/jonas.n96',
+            // },
           ],
         },
         hobbies: {

@@ -210,9 +210,10 @@ export default {
         icon : 'mdi-desktop-classic',
       },
       {
-        year : 'Jan 2020 - Jan 2021',
-        title: 'Outdoorsy - Senior Frontend Developer',
-        html : `
+        detailed: true,
+        year    : 'Jan 2020 - Jan 2021',
+        title   : 'Outdoorsy - Senior Frontend Developer',
+        html    : `
                     <p>
                         Converted legacy app was written by Ember.js to Next.js with Typescript.
                     </p>
