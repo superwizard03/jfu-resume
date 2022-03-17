@@ -4,8 +4,8 @@
     light
   >
     <v-card-text class="text-xs-center">
-      <h4>OK ... OK ... My CV has just been finished here but not my journey!</h4>
-      <div>Don't believe me? keep scrolling!</div>
+      <!-- <h4>OK ... OK ... My CV has just been finished here but not my journey!</h4>
+      <div>Don't believe me? keep scrolling!</div> -->
       <content-section>
         <v-timeline>
           <v-timeline-item
