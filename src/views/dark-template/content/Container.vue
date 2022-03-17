@@ -7,7 +7,6 @@
       <content-section
         title="Who am I?"
       >
-        I'm a developer born in China and have been living in U.S for nearly 15 years.<br>
         As a senior software engineer dedicated to Javascript development in last 10 years, I specialize in React, Vue.js, and Angular for front-end development and Solidity, Node.js, Django, and Ruby on Rails for back-end development.<br>
         I can do ANYTHING you need to build your app from the ground-up and get it on the market which means I can turn your conceptual ideal to real working software.<br>
         My rich experiences started from C and C++(object-oriented language) When I was 13 years old, I started programming simple algorithms with C and since 15, I participated in more complex algorithm development using C++, ranging from small to large game engines and delivered brilliant results of all projects.<br>
@@ -151,10 +150,10 @@ export default {
     ],
     educations: [
       {
-        from       : '2007',
-        to         : '2011',
+        from       : '2014',
+        to         : '2018',
         title      : 'Bachelor\'s degree, Computer Science',
-        location   : 'Georgia State University',
+        location   : 'DongBei University',
         description: 'During my school days, I was able to master C/C++ programming and it makes me learn the other popular web stacks (React, Vue.js, Angular) more easily.  I started web development after graduating from school.',
       },
     ],
@@ -167,70 +166,70 @@ export default {
       {
         title: 'JavaScript',
         icon : 'mdi-language-javascript',
-        value: 80,
+        value: 95,
       },
       {
-        title: 'Laravel Framework',
+        title: 'Laravel',
         icon : 'mdi-laravel',
         value: 90,
       },
       {
-        title: 'Vue.js Framework',
+        title: 'React.js/Next.js',
+        icon : 'mdi-react',
+        value: 99,
+      },
+      { divider: true },
+      {
+        title: 'Node.js/Express',
+        icon : 'mdi-nodejs',
+        value: 99,
+      },
+      {
+        title: 'Vue.js/Nuxt.js',
         icon : 'mdi-vuejs',
         value: 90,
       },
-      { divider: true },
       {
-        title: 'Node.js Framework',
-        icon : 'mdi-nodejs',
-        value: 47,
-      },
-      {
-        title: 'React Framework',
-        icon : 'mdi-react',
-        value: 90,
-      },
-      {
-        title: 'Web Application Security',
+        title: 'Python/Django',
         icon : 'mdi-shield-lock',
+        value: 85,
+      },
+      {
+        title: 'Angular.js/Angular(2 ~ 12)',
+        icon : 'mdi-test-tube',
+        value: 86,
+      },
+      {
+        title: 'Git/Github/Bitbucket',
+        icon : 'mdi-truck-fast',
+        value: 98,
+      },
+      {
+        title: 'Wordpress Design',
+        icon : 'mdi-git',
         value: 80,
       },
-      {
-        title: 'Test Driven Development',
-        icon : 'mdi-test-tube',
-        value: 26,
-      },
-      {
-        title: 'Continuous Integration / Continuous Delivery',
-        icon : 'mdi-truck-fast',
-        value: 35,
-      },
-      {
-        title: 'Git',
-        icon : 'mdi-git',
-        value: 67,
-      },
       { divider: true },
       {
-        title: 'Hardware Development',
+        title: 'Blockchain Development/Smart Contract',
         icon : 'mdi-chip',
-        value: 29,
+        value: 50,
       },
       {
-        title: 'C/C++',
+        title: 'API Integration/Swagger/Strapi',
         icon : 'mdi-language-cpp',
-        value: 38,
+        value: 95,
       },
       { divider: true },
       {
-        title: 'Leadership',
+        title: 'C++/C#/Java/Spring',
         icon : 'mdi-account-group',
-        value: 68,
+        value: 60,
       },
       {
-        title: 'Content Marketing (+340 articles)',
+        title: 'DevOps',
         icon : 'mdi-text',
-        value: 96,
+        value: 70,
       },
     ],
   }),

@@ -94,7 +94,7 @@ export default {
             {
               name: 'Habitation',
               icon: 'mdi-map-marker',
-              text: 'Missouri(MO), US',
+              text: 'Tiexi District, Shenyang City, Liaoning Province',
             },
           ],
         },
